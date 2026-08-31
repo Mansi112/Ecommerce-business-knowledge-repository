@@ -1,0 +1,16 @@
+[
+    {
+        "customer_id": "C001",
+        "name": "Rahul Sharma",
+        "email": "rahul@example.com",
+        "city": "Delhi",
+        "customer_type": "Regular"
+    },
+    {
+        "customer_id": "C002",
+        "name": "Priya Verma",
+        "email": "priya@example.com",
+        "city": "Mumbai",
+        "customer_type": "Premium"
+    }
+]

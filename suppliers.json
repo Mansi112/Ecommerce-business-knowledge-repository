@@ -1,0 +1,17 @@
+[
+    {
+        "supplier_id": "S001",
+        "name": "Tech Suppliers Pvt Ltd",
+        "category": "Electronics"
+    },
+    {
+        "supplier_id": "S002",
+        "name": "Digital Accessories Ltd",
+        "category": "Electronics"
+    },
+    {
+        "supplier_id": "S003",
+        "name": "Furniture World",
+        "category": "Furniture"
+    }
+]

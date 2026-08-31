@@ -1,0 +1,17 @@
+[
+    {
+        "product_id": "P001",
+        "quantity_available": 25,
+        "status": "In Stock"
+    },
+    {
+        "product_id": "P002",
+        "quantity_available": 100,
+        "status": "In Stock"
+    },
+    {
+        "product_id": "P003",
+        "quantity_available": 5,
+        "status": "Low Stock"
+    }
+]

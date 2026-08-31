@@ -1,0 +1,16 @@
+[
+    {
+        "payment_id": "PAY001",
+        "order_id": "O001",
+        "amount": 65000,
+        "payment_method": "UPI",
+        "payment_status": "Completed"
+    },
+    {
+        "payment_id": "PAY002",
+        "order_id": "O002",
+        "amount": 8500,
+        "payment_method": "Credit Card",
+        "payment_status": "Completed"
+    }
+]

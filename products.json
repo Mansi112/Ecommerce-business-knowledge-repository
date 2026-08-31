@@ -1,0 +1,23 @@
+[
+    {
+        "product_id": "P001",
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 65000,
+        "supplier_id": "S001"
+    },
+    {
+        "product_id": "P002",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 1200,
+        "supplier_id": "S002"
+    },
+    {
+        "product_id": "P003",
+        "name": "Office Chair",
+        "category": "Furniture",
+        "price": 8500,
+        "supplier_id": "S003"
+    }
+]

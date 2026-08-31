@@ -1,0 +1,16 @@
+[
+    {
+        "order_id": "O001",
+        "customer_id": "C001",
+        "product_id": "P001",
+        "quantity": 1,
+        "order_status": "Delivered"
+    },
+    {
+        "order_id": "O002",
+        "customer_id": "C002",
+        "product_id": "P003",
+        "quantity": 1,
+        "order_status": "Processing"
+    }
+]
