@@ -1,0 +1,37 @@
+[
+    {
+        "source": "C001",
+        "relationship": "PLACED",
+        "target": "O001"
+    },
+    {
+        "source": "C002",
+        "relationship": "PLACED",
+        "target": "O002"
+    },
+    {
+        "source": "O001",
+        "relationship": "CONTAINS",
+        "target": "P001"
+    },
+    {
+        "source": "O002",
+        "relationship": "CONTAINS",
+        "target": "P003"
+    },
+    {
+        "source": "P001",
+        "relationship": "SUPPLIED_BY",
+        "target": "S001"
+    },
+    {
+        "source": "P002",
+        "relationship": "SUPPLIED_BY",
+        "target": "S002"
+    },
+    {
+        "source": "P003",
+        "relationship": "SUPPLIED_BY",
+        "target": "S003"
+    }
+]

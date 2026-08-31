@@ -1,0 +1,22 @@
+[
+    {
+        "rule_id": "R001",
+        "condition": "quantity_available < 10",
+        "action": "Mark product as Low Stock"
+    },
+    {
+        "rule_id": "R002",
+        "condition": "customer_type == Premium",
+        "action": "Provide priority order processing"
+    },
+    {
+        "rule_id": "R003",
+        "condition": "payment_status == Completed",
+        "action": "Allow order processing"
+    },
+    {
+        "rule_id": "R004",
+        "condition": "quantity_available == 0",
+        "action": "Mark product as Out of Stock"
+    }
+]
